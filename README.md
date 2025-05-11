@@ -1,12 +1,22 @@
-# React + Vite
+Simple Docs Site – React + Vite (Practice Project)
+This is a practice documentation website built using React and Vite. The goal of this project is to practice layout design, animation using Framer Motion, and structuring a simple documentation-style web app.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ This is a practice project only and not intended for production use.
 
-Currently, two official plugins are available:
+⚙️ Tech Stack
+React – UI library
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Vite – Fast build tool
 
-## Expanding the ESLint configuration
+Framer Motion – For simple animations
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+HTML, CSS, JavaScript – Web fundamentals
+
+🚀 Live Demo
+🔗 View Live Project
+(https://docs-six-lemon-26.vercel.app/)
+
+✨ Features
+Practice layout for docs-style site
+
+Smooth section animations with Framer Motion
